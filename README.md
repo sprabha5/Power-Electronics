@@ -8,7 +8,7 @@ A curated collection of articles and research paper insights which i come throug
 
 ### 📁 Explore by Category
 * [📖 Articles & Research Summaries](./Articles-Read/) - Deep dives into power semiconductor trends and papers.
-* [🔋 BMS & Battery Tech](./EVDoc/) - (Create this folder for your battery management insights!)
+* [🔋 BMS & Battery Tech](./EV-Doc/) - (Create this folder for your battery management insights!)
 * [🔧 Hardware Projects](./Projects/) - Circuit designs and testing results.
 
 ### ✨ Featured Articles
