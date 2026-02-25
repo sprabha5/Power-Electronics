@@ -1,4 +1,4 @@
-* [🏠 Home](README.md)
+* [🏠 Home](Readme.md)
 * [📖 Articles & Research](Articles-Read/Readme.md)
-* [🔋 BMS Tech](EV-Doc/README.md)
-* [🚀 Projects](Projects/README.md)
+* [🔋 BMS Tech](EV-Doc/Readme.md)
+* [🚀 Projects](Projects/Readme.md)
