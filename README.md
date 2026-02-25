@@ -1,6 +1,10 @@
 # Power Electronics Knowledge Hub
 
-A curated collection of research insights, project builds, and engineering "hidden gems" discovered during my work at IIT Dharwad and in the EV industry.
+Hi !  
+I'm Shashi and this Repo is created by me, you can know more about me here: https://www.linkedin.com/in/shashiprabha08/
+
+This Repo. contrains:
+A curated collection of articles and research paper insights which i come through and keep reading, project builds, and engineering "hidden gems" which I kee finding.
 
 ### 📁 Explore by Category
 * [📖 Articles & Research Summaries](./Articles-Read/) - Deep dives into power semiconductor trends and papers.
