@@ -1,4 +1,4 @@
-# Power Electronics Knowledge Hub ⚡
+# Power Electronics Knowledge Hub
 
 A curated collection of research insights, project builds, and engineering "hidden gems" discovered during my work at IIT Dharwad and in the EV industry.
 
